@@ -2,7 +2,7 @@
 - This project was a part of data mining course assignment at the University of Chicago.
 
 ## DATA:
-- Data is a masked data of a bank which is close to real world data. File can be found under name "Data for Cleaning & Modeling.csv".
+- Data is a masked data of a bank which is close to real world data. File can be found under name "Data for Cleaning & Modeling". Size of the file is big which is why it is compressed and uploaded. Moreover, I have attached an HTML file in addition with python notebook for ease of reading.
 
 ## Assignment Instructions:
 
