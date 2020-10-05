@@ -2,7 +2,7 @@
 - This project was a part of data mining course assignment at the University of Chicago.
 
 ## DATA:
-- Data is a masked data of a bank which is close to real world data. Moreover, I have attached an HTML file in addition with python notebook for ease of reading.
+- Data is a masked data of a bank which is close to real world data. Metadata.csv contains the descriptions of the columns. Size of the file is large which is why it is not possible to upload. Moreover, I have attached an HTML file in addition with python notebook for ease of reading.
 
 ## Assignment Instructions:
 
